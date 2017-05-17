@@ -84,7 +84,8 @@
                      </analytic>
                      <monogr>
                         <imprint>
-                           <classCode scheme="CCS">Illustration Music</classCode>
+                          <classCode scheme="CCS">Illustration</classCode>
+			  <classCode scheme="CCS">Music</classCode>
                            <biblScope unit="page">3</biblScope>
                            <biblScope unit="page">3</biblScope>
                         </imprint>
