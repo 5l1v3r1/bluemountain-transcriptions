@@ -601,7 +601,7 @@
                            </analytic>
                            <monogr>
                               <imprint>
-                                 <classCode scheme="CCS">illustration</classCode>
+                                 <classCode scheme="CCS">Illustration</classCode>
                                  <biblScope unit="page">33</biblScope>
                               </imprint>
                            </monogr>
@@ -2019,7 +2019,7 @@
                            </analytic>
                            <monogr>
                               <imprint>
-                                 <classCode scheme="CCS">advertisement</classCode>
+                                 <classCode scheme="CCS">SponsoredAdvertisement</classCode>
                                  <biblScope unit="page">106</biblScope>
                               </imprint>
                            </monogr>
